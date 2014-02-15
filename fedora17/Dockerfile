@@ -1,4 +1,4 @@
-FROM tylerwhall/fedora17
+FROM tylerwhall/fedora17:iputils
 
 MAINTAINER Tyler Hall <tylerwhall@gmail.com>
 
